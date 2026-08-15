@@ -33,7 +33,7 @@
 
 ## 致谢
 
-感谢 [文源字体](https://github.com/takushun-wu/WenYuanFonts) 的开发者 takushun-wu，字体覆盖了所有元素的中文名。编译前请先安装该字体。
+感谢 [文渊字体](https://github.com/takushun-wu/WenYuanFonts) 的开发者 takushun-wu，字体覆盖了所有元素的中文名。编译前请先安装该字体。
 
 本项目受到 [PaNDanese/periodic-table](https://github.com/PaNDanese/periodic-table) 的启发，并在早期基于其代码开发。感谢原作者 [Ivan Griffin](https://github.com/griffini) 和 [Paul Danese](https://github.com/PaNDanese) 的出色工作。
 
